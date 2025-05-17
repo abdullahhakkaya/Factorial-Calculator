@@ -1,0 +1,14 @@
+/Users/abdullah/Desktop/C#/14/proje3/Factorial-Calculator/bin/Debug/net9.0/Factorial-Calculator
+/Users/abdullah/Desktop/C#/14/proje3/Factorial-Calculator/bin/Debug/net9.0/Factorial-Calculator.deps.json
+/Users/abdullah/Desktop/C#/14/proje3/Factorial-Calculator/bin/Debug/net9.0/Factorial-Calculator.runtimeconfig.json
+/Users/abdullah/Desktop/C#/14/proje3/Factorial-Calculator/bin/Debug/net9.0/Factorial-Calculator.dll
+/Users/abdullah/Desktop/C#/14/proje3/Factorial-Calculator/bin/Debug/net9.0/Factorial-Calculator.pdb
+/Users/abdullah/Desktop/C#/14/proje3/Factorial-Calculator/obj/Debug/net9.0/Factorial-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullah/Desktop/C#/14/proje3/Factorial-Calculator/obj/Debug/net9.0/Factorial-Calculator.AssemblyInfoInputs.cache
+/Users/abdullah/Desktop/C#/14/proje3/Factorial-Calculator/obj/Debug/net9.0/Factorial-Calculator.AssemblyInfo.cs
+/Users/abdullah/Desktop/C#/14/proje3/Factorial-Calculator/obj/Debug/net9.0/Factorial-Calculator.csproj.CoreCompileInputs.cache
+/Users/abdullah/Desktop/C#/14/proje3/Factorial-Calculator/obj/Debug/net9.0/Factorial-Calculator.dll
+/Users/abdullah/Desktop/C#/14/proje3/Factorial-Calculator/obj/Debug/net9.0/refint/Factorial-Calculator.dll
+/Users/abdullah/Desktop/C#/14/proje3/Factorial-Calculator/obj/Debug/net9.0/Factorial-Calculator.pdb
+/Users/abdullah/Desktop/C#/14/proje3/Factorial-Calculator/obj/Debug/net9.0/Factorial-Calculator.genruntimeconfig.cache
+/Users/abdullah/Desktop/C#/14/proje3/Factorial-Calculator/obj/Debug/net9.0/ref/Factorial-Calculator.dll
